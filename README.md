@@ -1,7 +1,7 @@
 #### 2D TRANSFORMATION USING C GRAPHICS
 #### *This project was a part of my computer graphics course in Vth semester*
-----------------------------------------------------------------------------
 Basic 2D Transormation Program written using graphics in C.
+----------------------------------------------------------------------------
 ###### About Project
 Basic tranformation function for any 2D figure includes but is not limited to :
 -	SCALING : increase or decrease the size of the 2D figure using the input ratio.
