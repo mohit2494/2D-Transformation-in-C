@@ -1,6 +1,6 @@
-#### 2D TRANSFORMATION USING C GRAPHICS
-#### *This project was a part of my computer graphics course in Vth semester*
 Basic 2D Transormation Program written using graphics in C.
+#### 2D TRANSFORMATION USING C GRAPHICS ####
+#### *This project was a part of my computer graphics course in Vth semester* ####
 ----------------------------------------------------------------------------
 ###### About Project
 Basic tranformation function for any 2D figure includes but is not limited to :
